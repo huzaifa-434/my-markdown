@@ -1,6 +1,6 @@
 > 1250529163429248
 
-```
+```json
 {
     "issuccess": true,
     "statusCode": 200,
@@ -69,7 +69,7 @@
 
 > 1250529163348682
 
-```
+```json
 {
     "issuccess": true,
     "statusCode": 200,
@@ -138,7 +138,7 @@
 
 > 1250529163232487
 
-```
+```json
 {
     "issuccess": true,
     "statusCode": 200,
@@ -207,7 +207,7 @@
 
 > 1250529162853245
 
-```
+```json
 {
     "issuccess": true,
     "statusCode": 200,
@@ -273,3 +273,143 @@
     }
 }
 ```
+
+---
+
+```json
+{
+    "issuccess": true,
+    "statusCode": 200,
+    "message": "request success",
+    "data": {
+        "id": "56956",
+        "transactionId": "qEXDuHCl",
+        "partnerId": null,
+        "transactionSource": "wallet",
+        "cardType": null,
+        "partnerName": null,
+        "amount": 10,
+        "spayUserWallet": null,
+        "status": "success",
+        "spayStatus": "execution_success",
+        "partnerStatus": null,
+        "spayTransactionId": null,
+        "spayTransactionDate": null,
+        "spayResponseCode": null,
+        "spayResponseDetails": null,
+        "partnerTransactionId": null,
+        "partnerSuccessIndicator": null,
+        "partnerSessionId": null,
+        "cardNumber": null,
+        "cardHolderName": null,
+        "cardCavv": null,
+        "cardExpiry": null,
+        "sourceWallet": "8801678242921",
+        "destinationWallet": "9100521246272855",
+        "sourceAmount": null,
+        "destinationAmount": null,
+        "currentBalance": null,
+        "rewardPoint": null,
+        "chargeAmount": null,
+        "commissionAmount": null,
+        "convenienceFee": null,
+        "chargePayer": null,
+        "rtValues": null,
+        "partnerResponse": "{\"issuccess\":true,\"statusCode\":200,\"data\":{\"issuccess\":true,\"statusCode\":200,\"payload\":null,\"message\":\"Transaction In Progress\"},\"message\":\"Success\"}",
+        "transactionType": "bqr",
+        "billerType": null,
+        "billType": null,
+        "virtualAccountNumber": null,
+        "depositBranchName": null,
+        "paymentMethod": null,
+        "branchCode": null,
+        "reference": "BQR Payment to 9100521246272855",
+        "paymentServiceProvider": null,
+        "isPulled": false,
+        "retryCount": 0,
+        "transferType": null,
+        "transferChannel": null,
+        "settlementDate": null,
+        "eventTag": null,
+        "isExecuted": false,
+        "uniqueStatementIdentity": null,
+        "passThrough": null,
+        "partnerResponseCode": null,
+        "reverseSpayTransactionId": null,
+        "lockToReverse": false,
+        "createdAt": "2025-05-29T10:25:43.138Z",
+        "updatedAt": "2025-05-29T10:25:43.997Z"
+    }
+}
+```
+
+
+```json
+{
+    "issuccess": true,
+    "statusCode": 200,
+    "message": "request success",
+    "data": {
+        "id": "56957",
+        "transactionId": "ifG5ySkv",
+        "partnerId": null,
+        "transactionSource": "wallet",
+        "cardType": null,
+        "partnerName": null,
+        "amount": 1,
+        "spayUserWallet": null,
+        "status": "success",
+        "spayStatus": "execution_success",
+        "partnerStatus": null,
+        "spayTransactionId": null,
+        "spayTransactionDate": null,
+        "spayResponseCode": null,
+        "spayResponseDetails": null,
+        "partnerTransactionId": null,
+        "partnerSuccessIndicator": null,
+        "partnerSessionId": null,
+        "cardNumber": null,
+        "cardHolderName": null,
+        "cardCavv": null,
+        "cardExpiry": null,
+        "sourceWallet": "8801678242921",
+        "destinationWallet": "9100521246272855",
+        "sourceAmount": null,
+        "destinationAmount": null,
+        "currentBalance": null,
+        "rewardPoint": null,
+        "chargeAmount": null,
+        "commissionAmount": null,
+        "convenienceFee": null,
+        "chargePayer": null,
+        "rtValues": null,
+        "partnerResponse": "{\"issuccess\":true,\"statusCode\":200,\"data\":{\"issuccess\":true,\"statusCode\":200,\"payload\":null,\"message\":\"Transaction In Progress\"},\"message\":\"Success\"}",
+        "transactionType": "bqr",
+        "billerType": null,
+        "billType": null,
+        "virtualAccountNumber": null,
+        "depositBranchName": null,
+        "paymentMethod": null,
+        "branchCode": null,
+        "reference": "BQR Payment to 9100521246272855",
+        "paymentServiceProvider": null,
+        "isPulled": false,
+        "retryCount": 0,
+        "transferType": null,
+        "transferChannel": null,
+        "settlementDate": null,
+        "eventTag": null,
+        "isExecuted": false,
+        "uniqueStatementIdentity": null,
+        "passThrough": null,
+        "partnerResponseCode": null,
+        "reverseSpayTransactionId": null,
+        "lockToReverse": false,
+        "createdAt": "2025-05-29T10:26:37.301Z",
+        "updatedAt": "2025-05-29T10:26:37.769Z"
+    }
+}
+
+```
+
+
